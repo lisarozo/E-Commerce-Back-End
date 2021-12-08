@@ -24,9 +24,9 @@ ProductTag.init(
       references: {
         model: 'tag',
         key: 'id'
-      }
-    }
-    // define columns
+      },
+    },
+  
   },
   {
     sequelize,
